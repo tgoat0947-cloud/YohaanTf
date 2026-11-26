@@ -1,0 +1,6 @@
+{
+  "name": "Elite Chess Coaching | 2700 ELO",
+  "description": "Personalized 1-on-1 chess coaching with a 2700 online rated coach. Master tactical calculation, opening repertoires, and endgame precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
